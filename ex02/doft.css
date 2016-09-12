@@ -1,0 +1,205 @@
+body{
+	background-color: #505050
+}
+
+.headbox{
+	border-radius: 13px;
+	box-shadow: 12px 12px 15px;
+	position: absolute;
+	top: 2%;
+	left: 12.5%;
+	width: 75%;
+	height: 13%;
+	background-color: #909090;
+}
+
+.fortytwo{
+	position: relative;
+	width: 28%;
+	height: 82%;
+	top: -30%;
+	left: 0.6%;
+}
+.mainimg{
+	position: relative;
+	width: 98%;
+	height: 97%;
+	left: 1%;
+	top: 1.6%;
+}
+.mainimgbox{
+	border-radius: 13px;
+	box-shadow: 12px 12px 15px;
+	position: absolute;
+	top: 17%;
+	left: 22%;
+	width: 56%;
+	height: 63%;
+	background-color: #909090;
+}
+.leftbox{
+	border-radius: 13px;
+	box-shadow: 12px 12px 15px;
+	background-color: #909090;
+	position: absolute;
+	left: 14%;
+	top: 17%;
+	width: 7%;
+	height: 46%;
+
+}
+.rightbox{
+	border-radius: 13px;
+	box-shadow: 12px 12px 15px;
+	background-color: #909090;
+	position: absolute;
+	left: 79%;
+	top: 17%;
+	width: 7%;
+	height: 46%;
+
+
+}
+.arrow{
+	position: relative;
+	width: 50%;
+	height: 15%;
+	top: 2%;
+	left: 25%;
+
+}
+.main{
+	position: relative;
+	width: 50%;
+	height: 15%;
+	top: 4%;
+	left: 25%;
+
+}
+.oeil{
+	position: relative;
+	border: 6px solid red;
+	border-radius: 7px ;
+	width: 50%;
+	height: 15%;
+	top: 6%;
+	left: 20%;
+}
+.outil{
+	position: relative;
+	width: 50%;
+	height: 15%;
+	top: 7%;
+	left: 25%;
+}
+.chat-icon{
+	position: relative;
+	width: 50%;
+	height: 15%;
+	top: 10%;
+	left: 25%;
+}
+.close{
+	position: absolute;
+	left: 97.7%;
+	top: 79%;
+	width:1.5%;
+	height:15%;
+}
+.reload{
+	position: absolute;
+	width: 1.5%;
+	height: 15%;
+	top: 5%;
+	left: 97.7%;
+}
+.loupe{
+	position: relative;
+	left: 52%;
+	top: 0%;
+	
+}
+.book{
+	position: relative;
+	width: 50%;
+	left: 25%;
+	top: 2%;
+}
+.towel{
+	position: relative;
+	width: 50%;
+	left: 25%;
+	top: 4%;
+}
+.brick1{
+	position: abolute;
+	width: 20%;
+	left: 20%;
+	top: 6%;
+}
+.brick2{
+	position: abolute;
+	width: 20%;
+	left: -2.5%;
+	top: 6%;
+}
+.brick3{
+	position: abolute;
+	width: 20%;
+	left: -5.3%;
+	top: 6%;
+}
+.brick4{
+	position: abolute;
+	width: 20%;
+	left: -8.5%;
+	top: 6%;
+}
+.brick5{
+	position: abolute;
+	width: 20%;
+	left: 0%;
+	top: 12%;
+}
+.brick6{
+	position: abolute;
+	width: 20%;
+	left: 5%;
+	top: 12%;
+}
+.brick7{
+	position: abolute;
+	width: 20%;
+	left: 5%;
+	top: 12%;
+}
+.brick8{
+	position: rabolute
+	width: 20%;
+	left: 5%;
+	top: 12%;
+}
+.brick9{
+	position: abolute;
+	width: 20%;
+	left: 5%;
+	top: 6%;
+}
+.brick10{
+	position: abolute;
+	width: 20%;
+	left: 5%;
+	top: 6%;
+}
+.brick11{
+	position: abolute;
+	width: 20%;
+	left: 5%;
+	top: 6%;
+}
+.brick12{
+	position: abolute;
+	width: 20%;
+	left: 5%;
+	top: 6%;
+}
