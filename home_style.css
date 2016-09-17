@@ -1,0 +1,86 @@
+body{
+    position: relative;
+    background-color: #FFFFFF;
+    margin:0 auto;
+}
+html, body{height: 100%}
+
+.banner{
+    position: fixed;
+    width: 100%;
+    top: 10%;
+    left: 0%;
+    height: 70%;
+    background-color: #d7cec7;
+}
+
+.menu{
+    position: relative;
+    width: 100%;
+    top: 0%;
+    height: 10%;
+    left: 0%;
+    background-color: #FFFFFF;
+}
+
+.about{
+   position: absolute;
+   top: 50%;
+   left: 48%;
+   display: inline-block;
+   
+}
+
+.products{
+    position: absolute;
+    top:120%;
+    left: 52%;
+    display: inline- block;
+}
+
+.contact_us{
+    position: absolute;
+    top: 120%;
+    left: 57%;
+    display: inline-block;
+
+}
+.ladies{
+    position: absolute;
+    top: 120%;
+    left: 63%;
+    display: inline-block;
+}
+
+.men{
+    position: relative;
+    top: 170%;
+    left: 68%;
+}
+
+.logo{
+    max-width: 5%;
+    width: auto;
+    position: absolute;
+    display: inline-block;
+}
+
+.text_btn{
+    font-family: Palatino Linotype;
+    background:none;
+    border:none;
+    color:#565656;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 900;
+    transition:.5s;
+}
+img { 
+    max-width: 100%; 
+}
+.text_btn:hover {
+    color:#C09F80;
+    }
+.text_btn:focus {
+    outline:0;
+    }
